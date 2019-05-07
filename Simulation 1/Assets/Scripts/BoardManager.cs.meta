@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e604f3bf34118504480623fc90671132
+timeCreated: 1502832510
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - outerWallTile: {fileID: 1032848216705786, guid: 5416a330b567c9649a8c827f618f4cba,
+      type: 2}
+  - floorTile: {fileID: 1323482152866700, guid: 8258a8594d98ada4aa57de8727543dd5,
+      type: 2}
+  - rock: {fileID: 1356406002204286, guid: 764e405cd989ece46acf7d7db058d181, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
