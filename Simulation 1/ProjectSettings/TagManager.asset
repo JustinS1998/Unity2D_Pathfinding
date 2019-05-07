@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Red
+  - Blue
+  - Tree
+  - Objective
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Units
+  - Items
+  - Floor
+  - Blocking Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2907700567
+    locked: 0
+  - name: Geology
+    uniqueID: 1005214435
+    locked: 0
+  - name: Vegetation
+    uniqueID: 1601929203
+    locked: 0
+  - name: Items
+    uniqueID: 3547316221
+    locked: 0
+  - name: Units
+    uniqueID: 1008473275
+    locked: 0
+  - name: Selection
+    uniqueID: 1890888173
+    locked: 0
